@@ -257,7 +257,7 @@ badass_things = [
 	'Fury',
 	'Fusion',
 	'Galaxy',
-	'Genesis',
+	'Genesis', 'Generic', 
 	'Ghost',
 	'Glitch',
 	'God',
